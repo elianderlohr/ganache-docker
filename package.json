@@ -1,0 +1,22 @@
+{
+  "name": "ganache-docker",
+  "version": "1.0.0",
+  "description": "Ganache docker image for other projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elianderlohr/ganache-docker.git"
+  },
+  "author": "Elias Anderlohr",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/elianderlohr/ganache-docker/issues"
+  },
+  "homepage": "https://github.com/elianderlohr/ganache-docker#readme",
+  "dependencies": {
+    "ganache": "^7.4.4"
+  }
+}
